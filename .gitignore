@@ -5,3 +5,5 @@ venv/
 .env
 *.pyc
 .DS_Store
+aulas/*
+0412004v3.pdf
