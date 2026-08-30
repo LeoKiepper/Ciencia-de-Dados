@@ -6,7 +6,7 @@ Listas de exercícios da disciplina **PINF7101 — Ciência de Dados**, ministra
 
 | Lista | Notebook | Colab |
 |-------|----------|-------|
-| 01 | [`lista_01.ipynb`](lista01/lista_01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeoKiepper/Ciencia-de-Dados/blob/main/lista_01.ipynb) |
+| 01 | [`lista_01.ipynb`](lista01/lista_01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeoKiepper/Ciencia-de-Dados/blob/main/lista01/lista_01.ipynb) |
 
 Os notebooks são versionados **com as saídas das células**, de modo que os resultados possam ser conferidos sem reexecução.
 
