@@ -12,6 +12,22 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
     <linearGradient
        id="swatch14">
       <stop
@@ -50,7 +66,7 @@
      id="layer1"
      transform="translate(-36.497972,-51.816495)">
     <path
-       style="fill:none;fill-opacity:1;stroke:url(#radialGradient14);stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#Dot);marker-end:url(#Dot);paint-order:stroke fill markers"
+       style="fill:none;fill-opacity:1;stroke:url(#radialGradient14);stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-mid:url(#Dot);marker-end:url(#Dot);paint-order:stroke fill markers"
        d="M 140.88915,128.14541 122.83552,59.116806 v 0 c 0,0 0,0 -78.232422,47.435044 z"
        id="path1" />
     <text
@@ -87,11 +103,20 @@
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#c02c2c;fill-opacity:1;stroke:none;stroke-width:0.365001;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        x="137.35651"
-       y="91.006439"
+       y="91.714424"
        id="text7"><tspan
          id="tspan9"
          x="137.35651"
-         y="91.006439">v</tspan></text>
+         y="91.714424">v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#c02c2c;fill-opacity:1;stroke:none;stroke-width:0.365001;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="78.365555"
+       y="79.074265"
+       id="text7-7"><tspan
+         id="tspan16"
+         x="78.365555"
+         y="79.074265">w</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#c02c2c;fill-opacity:1;stroke:none;stroke-width:0.365001;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
