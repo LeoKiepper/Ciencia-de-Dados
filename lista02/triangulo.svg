@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="108.58787mm"
+   height="86.467331mm"
+   viewBox="0 0 108.58787 86.467331"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch14">
+      <stop
+         style="stop-color:#c02c2c;stop-opacity:1;"
+         offset="0"
+         id="stop14" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Dot"
+       refX="0"
+       refY="0"
+       orient="auto"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path17" />
+    </marker>
+    <radialGradient
+       xlink:href="#swatch14"
+       id="radialGradient14"
+       cx="92.74617"
+       cy="93.631088"
+       fx="92.74617"
+       fy="93.631088"
+       r="49.968315"
+       gradientTransform="matrix(1,0,0,0.72725404,0,25.5375)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-36.497972,-51.816495)">
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#radialGradient14);stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#Dot);marker-end:url(#Dot);paint-order:stroke fill markers"
+       d="M 140.88915,128.14541 122.83552,59.116806 v 0 c 0,0 0,0 -78.232422,47.435044 z"
+       id="path1" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;display:inline;fill:#c02c2c;fill-opacity:1;stroke:none;stroke-width:0.365001;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="142.4894"
+       y="137.73349"
+       id="text4"><tspan
+         id="tspan4"
+         x="142.4894"
+         y="137.73349"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c02c2c;fill-opacity:1;stroke:none">z</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;display:inline;fill:#c02c2c;fill-opacity:1;stroke:none;stroke-width:0.365001;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="142.4894"
+       y="137.73349"
+       id="text5"
+       transform="translate(-105.66687,-24.956496)"><tspan
+         id="tspan5"
+         x="142.4894"
+         y="137.73349"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c02c2c;fill-opacity:1;stroke:none">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#c02c2c;fill-opacity:1;stroke:none;stroke-width:0.365001;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="126.55972"
+       y="55.07616"
+       id="text6"><tspan
+         id="tspan6"
+         x="126.55972"
+         y="55.07616">y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#c02c2c;fill-opacity:1;stroke:none;stroke-width:0.365001;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="137.35651"
+       y="91.006439"
+       id="text7"><tspan
+         id="tspan9"
+         x="137.35651"
+         y="91.006439">v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:#c02c2c;fill-opacity:1;stroke:none;stroke-width:0.365001;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="86.027542"
+       y="124.81274"
+       id="text8"><tspan
+         id="tspan10"
+         x="86.027542"
+         y="124.81274">u</tspan></text>
+  </g>
+</svg>
