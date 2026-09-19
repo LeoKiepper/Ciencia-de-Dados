@@ -7,66 +7,48 @@
    viewBox="0 0 108.58787 86.467331"
    version="1.1"
    id="svg1"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1">
     <marker
        style="overflow:visible"
-       id="RoundedArrow"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       preserveAspectRatio="xMidYMid">
-      <path
-         transform="scale(0.7)"
-         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
-         id="path8" />
-    </marker>
-    <linearGradient
-       id="swatch14">
-      <stop
-         style="stop-color:#c02c2c;stop-opacity:1;"
-         offset="0"
-         id="stop14" />
-    </linearGradient>
-    <marker
-       style="overflow:visible"
        id="Dot"
        refX="0"
        refY="0"
        orient="auto"
-       markerWidth="2"
-       markerHeight="2"
+       markerWidth="1"
+       markerHeight="1"
        viewBox="0 0 1 1"
        preserveAspectRatio="xMidYMid">
       <path
          transform="scale(0.5)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:none"
          d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         id="path17" />
+         id="path19" />
     </marker>
-    <radialGradient
-       xlink:href="#swatch14"
-       id="radialGradient14"
-       cx="92.74617"
-       cy="93.631088"
-       fx="92.74617"
-       fy="93.631088"
-       r="49.968315"
-       gradientTransform="matrix(1,0,0,0.72725404,0,25.5375)"
-       gradientUnits="userSpaceOnUse" />
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="4"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="3"
+       markerHeight="1.5"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="none">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
   </defs>
   <g
      id="layer1"
      transform="translate(-36.497972,-51.816495)">
     <path
-       style="fill:none;fill-opacity:1;stroke:url(#radialGradient14);stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-mid:url(#Dot);marker-end:url(#Dot);paint-order:stroke fill markers"
+       style="fill:none;fill-opacity:1;stroke:#a90000;stroke-width:0.365;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#Dot);marker-end:url(#Dot);paint-order:stroke fill markers"
        d="M 140.88915,128.14541 122.83552,59.116806 v 0 c 0,0 0,0 -78.232422,47.435044 z"
        id="path1" />
     <text
@@ -126,5 +108,22 @@
          id="tspan10"
          x="86.027542"
          y="124.81274">u</tspan></text>
+    <path
+       style="fill:#c02c2c;fill-opacity:1;stroke:#a90000;stroke-width:0.365001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle);paint-order:stroke fill markers"
+       d="M 44.603098,106.55185 122.83552,59.116806"
+       id="path16" />
+    <path
+       style="fill:#c02c2c;fill-opacity:1;stroke:#a90000;stroke-width:0.365001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle);paint-order:stroke fill markers"
+       d="M 140.88915,128.14541 122.83552,59.116806"
+       id="path17" />
+    <a
+       id="a18"
+       transform="translate(-0.35399285,3.7169249)"
+       style="stroke:#a90000;stroke-opacity:1">
+      <path
+         style="fill:#c02c2c;fill-opacity:1;stroke:#a90000;stroke-width:0.365001;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle);paint-order:stroke fill markers"
+         d="m 44.957091,102.83493 96.286049,21.59356"
+         id="path18" />
+    </a>
   </g>
 </svg>
