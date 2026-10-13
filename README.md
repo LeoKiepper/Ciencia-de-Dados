@@ -9,6 +9,12 @@ Listas de exercícios da disciplina **PINF7101 — Ciência de Dados**, ministra
 | 01 | [`lista_01.ipynb`](lista01/lista_01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeoKiepper/Ciencia-de-Dados/blob/main/lista01/lista_01.ipynb) |
 | 02 | [`lista_02.ipynb`](lista02/lista_02.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeoKiepper/Ciencia-de-Dados/blob/main/lista02/lista_02.ipynb) |
 
+## Trabalhos
+
+| Trabalho | Notebook | Colab |
+|-------|----------|-------|
+| 01 - Trabalho prático | [`leonardo_kiepper.ipynb`](trabalho1/leonardo_kiepper.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeoKiepper/Ciencia-de-Dados/blob/main/trabalho1/T1_leonardo_kiepper.ipynb) |
+
 Os notebooks são versionados **com as saídas das células**, de modo que os resultados possam ser conferidos sem reexecução.
 
 ## Como abrir
