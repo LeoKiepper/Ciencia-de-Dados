@@ -5,7 +5,6 @@ venv/
 .env
 *.pyc
 .DS_Store
-aulas/*
 lista02/08-04.pdf
 trabalho1/goodreads_books.csv
 trabalho1/Especificação_2026_2.ipynb
