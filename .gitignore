@@ -9,3 +9,10 @@ lista02/08-04.pdf
 trabalho1/Especificação_2026_2.ipynb
 trabalho2/descmerc/BaseDESC_NCM.csv
 scratchpad/
+trabalho2/artefatos/*
+!trabalho2/artefatos/*.log
+!trabalho2/artefatos/X_tfidf.npz
+!trabalho2/artefatos/X_tfidf_vocab.csv
+!trabalho2/artefatos/grid_*/
+trabalho2/artefatos/grid_*/*
+!trabalho2/artefatos/grid_*/descricao.json
