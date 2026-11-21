@@ -1,0 +1,2904 @@
+{
+  "nome": "MLPClassifier",
+  "hash": "fe7d2e2a4c0e7af3a126f0a3c49150ab",
+  "estimador": "__main__.MLPClassifierTorch",
+  "parametros": {
+    "alpha": 1e-05,
+    "batch_size": 2048,
+    "device": "cuda",
+    "dropout": 0.2,
+    "hidden_layer_sizes": [
+      512
+    ],
+    "layer_norm": false,
+    "learning_rate_init": 0.001,
+    "max_iter": 10,
+    "random_state": 0
+  },
+  "grid": [
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          3072,
+          1024
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          1024,
+          512,
+          256
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.003
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        [
+          2048,
+          1024,
+          512
+        ]
+      ],
+      "layer_norm": [
+        true
+      ],
+      "dropout": [
+        0.2
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.01
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        []
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        10
+      ],
+      "learning_rate_init": [
+        0.03
+      ]
+    },
+    {
+      "hidden_layer_sizes": [
+        []
+      ],
+      "layer_norm": [
+        false
+      ],
+      "dropout": [
+        0.0
+      ],
+      "max_iter": [
+        20
+      ],
+      "learning_rate_init": [
+        0.03
+      ]
+    }
+  ],
+  "criada": "2026-11-21 16:18:32",
+  "concluido": false
+}
