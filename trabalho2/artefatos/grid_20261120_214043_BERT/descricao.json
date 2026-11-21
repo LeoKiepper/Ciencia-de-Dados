@@ -1,0 +1,28 @@
+{
+  "nome": "BERT",
+  "hash": "2212ea5c245b1a3157a9e6bd8faf0255",
+  "estimador": "__main__.ClassificadorBERT",
+  "parametros": {
+    "arq_checkpoint": "artefatos/checkpoint_BERT.pt",
+    "batch_size": 8,
+    "checkpoint": "google-bert/bert-base-multilingual-cased",
+    "corta_padding": true,
+    "device": "cuda",
+    "epocas": 3,
+    "lote_inferencia": 512,
+    "lr": 2e-05,
+    "maxlen": 150,
+    "n_classes": null,
+    "semente": 0,
+    "validacao": 0.1
+  },
+  "grid": [
+    {}
+  ],
+  "cv": null,
+  "criada": "2026-11-20 21:40:43",
+  "concluido": true,
+  "tempo_s": 23139.422942357,
+  "melhor_score_cv": NaN,
+  "melhores_parametros": {}
+}
