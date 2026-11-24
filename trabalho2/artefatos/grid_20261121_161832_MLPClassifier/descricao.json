@@ -2900,5 +2900,16 @@
     }
   ],
   "criada": "2026-11-21 16:18:32",
-  "concluido": false
+  "concluido": true,
+  "tempo_s": 146621.59458460897,
+  "melhor_score_cv": 0.571019696661953,
+  "melhores_parametros": {
+    "dropout": 0.2,
+    "hidden_layer_sizes": [
+      2048
+    ],
+    "layer_norm": false,
+    "learning_rate_init": 0.01,
+    "max_iter": 10
+  }
 }
